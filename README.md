@@ -8,7 +8,7 @@ It is a very simple plugin for Wordpress, that also gives a hint, how to
 develop a plugin for Wordpress.
 
 ## What it does
-It adds a Pi sign to your wordpress pages and shows a pop-up, when clicked.
+It adds a Pi sign to your Wordpress pages and shows a pop-up, when clicked.
 
 ## Purpose
 Testing https://github.com/Pythagora-io/gpt-pilot for VS Code and it worked well.
