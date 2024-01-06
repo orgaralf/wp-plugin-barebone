@@ -16,3 +16,7 @@ Testing https://github.com/Pythagora-io/gpt-pilot for VS Code and it worked well
 ## Usage
 This plugin is free to use, copy, modify, distribute, etc. as you see fit.
 A reference to me is always appreciated.
+
+## Installation
+Just copy the "wp-plugin-demo-1" directory to your Wordpress plugin directory
+and activate it then in the Wordpress backend.
